@@ -1,6 +1,6 @@
 # cicd-pipeline-train-schedule-jenkins
 
-I am editing thia file again.
+I am editing thia file once again.
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
